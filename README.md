@@ -18,7 +18,8 @@ Welcome to the **Bubble Game** repository! 🌟 This fun and addictive game chal
 
 Experience the game live: [🔗 Play Now](https://riteshsinghcs.github.io/Bubble-Game/)
 
-![🎈 Game Preview](https://i.postimg.cc/hvvzThQ2/Screenshot-2025-01-18-180349.pnghttps://i.postimg.cc/HntmYtkK/Screenshot-2025-01-18-180423.png)
+![🎈 Game Preview](https://i.postimg.cc/hvvzThQ2/Screenshot-2025-01-18-180349.png)
+![](https://i.postimg.cc/HntmYtkK/Screenshot-2025-01-18-180423.png)
 
 ---
 
