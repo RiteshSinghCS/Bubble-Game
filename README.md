@@ -16,7 +16,7 @@ Welcome to the **Bubble Game** repository! 🌟 This fun and addictive game chal
 
 ## 🎥 Live Demo
 
-Experience the game live: [🔗 Play Now](#) *(Add the live demo link here)*
+Experience the game live: [🔗 Play Now](https://riteshsinghcs.github.io/Bubble-Game/)
 
 ![🎈 Game Preview](#) *(Add a screenshot or GIF of the game in action)*
 
