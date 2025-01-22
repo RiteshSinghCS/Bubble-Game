@@ -39,7 +39,7 @@ Follow these steps to play the game locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bubble-game.git
+   git clone https://github.com/RiteshSinghCS/Bubble-Game.git
    ```
 
 2. **Navigate to the project folder:**
